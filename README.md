@@ -17,4 +17,4 @@ Ferramentas e tecnologias na qual tenho experiência e que já estudei: <br>
 Aprendendo em: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-carv&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
