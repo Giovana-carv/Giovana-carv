@@ -6,7 +6,7 @@
 --Atualmente, estudo programação, com foco em Python, e em Desenvolvimento Web
 --Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web
 
-##Ferramentas e tecnologias na qual tenho experiência e que já estudei
+##Ferramentas e tecnologias na qual tenho experiência e que já estudei: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
