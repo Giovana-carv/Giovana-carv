@@ -2,7 +2,7 @@
 Meu nome é Giovana e bem vindos ao meu perfil!!! 😊
 
 ## Minhas formações
-Sou Técnico em Informática<br> 💻​
+Sou Técnico em Informática<br> ​🖥️​
 Atualmente, estudo em Tecnologia de Sistemas para Internet<br> 📖
 Atualmente, estudo programação, com foco em Python, e em Desenvolvimento Web<br> 🖥
 Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web<br>
