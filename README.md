@@ -1,5 +1,5 @@
-Olá, tudo bem? 😃
-Bem vindos ao meu perfil!!! 😊
+### Olá, tudo bem? 😃
+## Bem vindos ao meu perfil!!! 😊
 
 Sou Técnico em Informática<br> 💻
 Atualmente, estudo em Tecnologia de Sistemas para Internet<br> 📖
