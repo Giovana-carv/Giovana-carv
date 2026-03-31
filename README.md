@@ -20,4 +20,4 @@ Aprendendo em 📕: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 
 ## Meu Status:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a>
