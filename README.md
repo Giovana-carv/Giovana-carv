@@ -8,7 +8,7 @@ Meu nome é Giovana e bem vindos ao meu perfil!!! 😊
 - Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web 👩‍💼 <br>
 
 ## Minhas experiências
-- Linguagens e tecnologias na qual tenho experiência e que já estudei 📗:<br>
+- Linguagens e tecnologias na qual tenho experiência e que já estudei 📗:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" />
