@@ -20,10 +20,6 @@ Aprendendo em 📕: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 
 ## Meu Status:
-- Public repositories: **8**
-- Followers: **0**
-- Following: **0**
-
 Badges & stats:
 
 - GitHub stats: ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-carv&show_icons=true&theme=default)
