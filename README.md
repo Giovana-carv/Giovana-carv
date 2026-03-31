@@ -20,16 +20,7 @@ Aprendendo em 📕: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 
 ## Meu Status:
-Badges & stats:
-
-- GitHub stats: ![Giovana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Giovana-carv&show_icons=true&theme=default)
-- Top languages: ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Giovana-carv&layout=compact&theme=default)
-
-Quick badges:
-
-- Repos: ![repos](https://img.shields.io/badge/Repos-8-blue)
-- Followers: ![followers](https://img.shields.io/badge/Followers-0-green)
-- Following: ![following](https://img.shields.io/badge/Following-0-yellow)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a>
 
 ## Contribuições no último ano
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-carv&theme=midnight_purple)
