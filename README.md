@@ -20,4 +20,12 @@ Aprendendo em 📕: <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" />
 
 ## Meu Status:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a> <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovana-carv&theme=midnight_purple) <br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giovana-carv&theme=midnight_purple&utcOffset=8) <br>
+
+## Contribuições no último ano
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-carv&theme=midnight_purple)
+
+## Linguagens utilizadas
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovana-carv&theme=midnight_purple)
