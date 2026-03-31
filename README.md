@@ -22,7 +22,6 @@ Aprendendo em 📕: <br>
 ## Meu Status:
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a> 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Giovana-carv&theme=midnight_purple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Giovana-carv&theme=midnight_purple&utcOffset=8) 
 
 ## Contribuições no último ano
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-carv&theme=midnight_purple)
