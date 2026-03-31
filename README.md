@@ -3,7 +3,7 @@ Meu nome é Giovana e bem vindos ao meu perfil!!! 😊
 
 ## Minhas formações🚀
 - Sou Técnico em Informática 🖥 <br> 
-- No momento, estudo em Tecnologia de Sistemas para Internet 📖 <br> 
+- No momento, estou cursando Tecnologia de Sistemas para Internet 📖 <br> 
 - Atualmente, estudo programação, com foco em Python, e em Desenvolvimento Web 🖥 <br>
 - Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web 👩‍💼 <br>
 
@@ -26,5 +26,7 @@ Aprendendo em 📕: <br><br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-carv&theme=midnight_purple)
 
 ## Linguagens utilizadas
+### Principais Linguagens por Commit:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovana-carv&theme=midnight_purple)
+### Principais Linguagens por Repositório
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giovana-carv&theme=midnight_purple)
