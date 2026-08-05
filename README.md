@@ -1,32 +1,76 @@
-# Olá, tudo bem? 👋
-Meu nome é Giovana e bem vindos ao meu perfil!!! 😊
+<h1 data-importer="text" align="left">Olá, tudo bem? 👋</h1>
 
-## Minhas formações🚀
-- Sou Técnico em Informática 🖥 <br> 
-- No momento, estou cursando Tecnologia de Sistemas para Internet 📖 <br> 
-- Atualmente, estudo programação, com foco em Python, e em Desenvolvimento Web 🖥 <br>
-- Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web 👩‍💼 <br>
+###
 
-## Minhas experiências
-Linguagens e tecnologias na qual tenho experiência e que já estudei 📗:<br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="70" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="70"/>
+<p data-importer="text" align="left">Meu nome é Giovana e bem vindos ao meu perfil! 😊</p>
 
-## Minha formação em andamento
-Aprendendo em 📕: <br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="70" />
+###
 
-## Meu Status:
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Giovana-carv&theme=shadow-purple&locale=pt_BR" alt="GitHub Streak" /></a>
+<h1 data-importer="text" align="left">Minhas formações 🚀</h1>
 
-## Contribuições no último ano
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Giovana-carv&theme=midnight_purple)
+###
 
-## Linguagens utilizadas
-### Principais Linguagens por Commit:
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Giovana-carv&theme=midnight_purple)
-### Principais Linguagens por Repositório
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Giovana-carv&theme=midnight_purple)
+<p data-importer="text" align="left">- Sou Técnico em Informática 🖥 <br><br>- No momento, estou cursando Tecnologia de Sistemas para Internet 📖 <br><br>- Atualmente, estudo programação, com foco em Python, e em Desenvolvimento Web 🖥 <br><br>- Tenho procurado trabalhar em projetos que envolvam a área de Desenvolvimento Web 👩‍💼</p>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://wallpaperaccess.com/download/pixel-art-gif-5927911"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Minhas experiências</h1>
+
+###
+
+<p data-importer="text" align="left">Linguagens e tecnologias na qual tenho experiência e que já estudei 📗</p>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+</div>
+
+###
+
+<h1 data-importer="text" align="left">Meu Status:</h1>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Giovana-carv&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/activity-graph-output/activity-graph.svg?radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
