@@ -14,7 +14,7 @@
 
 ###
 
-<div data-importer="image" align="center">
+<div align="center">
   <img src="assets/banner.gif" width="700">
 </div>
 
