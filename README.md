@@ -15,7 +15,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="[https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif](https://i.pinimg.com/originals/60/df/77/60df77c5e60f20045cedef89c57010c5.gif)"  />
+  <img src="assets/banner.gif" width="700">
 </div>
 
 ###
