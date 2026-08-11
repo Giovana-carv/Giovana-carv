@@ -50,32 +50,27 @@
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Giovana-carv&show_icons=true&theme=midnight-purple&hide_border=false"
+       height="250"
+       alt="GitHub Stats" />
 
-  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Giovana-carv&layout=compact&langs_count=10&theme=midnight-purple&hide_border=false"
+       height="250"
+       alt="Top Languages" />
 
-  <img src="https://streak-stats.demolab.com?user=Giovana-carv&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-
-  <img src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph" />
-
+  <img src="https://streak-stats.demolab.com?user=Giovana-carv&locale=pt_BR&theme=midnight-purple&hide_border=false"
+       height="250"
+       alt="GitHub Streak" />
+       
 </div>
 
 ###
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
-</picture>
-
-###
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/Giovana-carv/Giovana-carv/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"
+    width="100%"
+  />
 </div>
 
 ###
